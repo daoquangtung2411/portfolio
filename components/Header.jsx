@@ -171,7 +171,7 @@ const Header = ({ isMobile, activeSection, setActiveSection, mobileMenuOpen, set
                                 fontWeight:"bold"
                             }}
                         >
-                            Q. Tung Dao
+                            Quang Tung Dao
                         </div>
 
                         <img 
