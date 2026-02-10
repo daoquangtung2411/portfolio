@@ -39,4 +39,24 @@ export const publications = [
         image: "https://i.ibb.co/j9NNMmXb/Screenshot-2026-01-17-at-09-50-48.png",
         keyword: "Balanophora species, Xanthine oxidase inhibitors, Machine learning, Molecular Docking, XGBoost"
     },
+    {
+        title: "Identifying Potential BACE1 Inhibitors from the ChEMBL Database Using Machine Learning and Atomistic Simulation Approaches",
+        authors: "Quang Tung Dao, Thi Mai Dung Do, Quynh Mai Thai, Phuong-Thao Tran, Son Tung Ngo, Trung Hai Nguyen",
+        venue: "ACS Omega",
+        year: 2026,
+        abstract: "The inhibition of β-site amyloid precursor protein-cleaving enzyme 1 presents a promising therapeutic strategy for treating Alzheimer’s disease by reducing amyloid-β (Aβ) production. This paper employed a computational approach that combined machine learning (ML) and atomistic simulations to accelerate the discovery of potential BACE1 inhibitors. Our ML models, trained on a set of ligands with experimental binding affinity, showed high accuracy when tested on a holdout test set. The best model was used to screen more than two million compounds in the CHEMBL33 chemical library to obtain a short list of top-hit compounds, which were further analyzed using molecular docking and fast pulling of ligand (FPL) simulations. The insights into structure and binding energetics obtained from FPL simulations elucidate the stability and interaction mechanisms of the BACE1-ligand bound state, providing data useful for the rational design of novel AD therapeutics.",
+        link: "https://doi.org/10.1038/s41598-025-32282-6",
+        image: "10.1021/acsomega.5c07081",
+        keyword: "BACE1 inhibitors, Alzeihmer Disease, Amyloid Theory, Molecular Docking, Virtual Screening, Machine Learning, Molecular Dynamics"
+    },
+    {
+        title: "Benchmarking the Ligand–HER2 Interactions Using Machine Learning and Molecular Dynamics Simulations",
+        authors: "Duc Toan Truong, Quang Tung Dao, Thi Thuy Mai Tran, Ngoc Ha Nguyen, My-Kristyna Nguyen-Thao, Nguyen-Hai Nam, Thi Mai Dung Do, Minh Tho Nguyen",
+        venue: "ACS Omega",
+        year: 2026,
+        abstract: "Understanding the inhibitor–HER2 interaction mechanism remains a critical challenge in combating breast cancer. In the present work, the role of five critical residues that are deeply located in the HER2 active site was recognized. To win the race against time in learning the activities of the HER2 tyrosine kinase protein, we employed a stepwise computational procedure including a machine learning predictive regression model, atomistic molecular dynamics (MD) simulations, and the umbrella sampling MD method. A systematic mining of a data set of 8 million chemical compounds allowed us to finally identify 13 candidates whose capacities as anti-HER2 have not been reported before. Based on the computed results, a benchmark for the strength of the ligand–HER2 interaction has been established. Although van der Waals potential energy tends to stabilize ligand–protein associations, the ligand that electrostatically interacts with five residues, Lys753, Leu796, Thr798, Asp863, and Asp880, is a key factor in deciding the inhibitor strength. Significantly, the strong binding of compound lig233 was exemplified by its ability to form hydrogen bonds with Asp863 and Asp880 and maintain exceptionally short distances to many key residues, indicating the formation of strong chemical bonds. Lig233 also exhibits a binding free energy of −47 kcal/mol, two times as large as that of −21 kcal/mol for the known drug lapatinib. The fresh understanding achieved in the present study can lead to the necessary adjustments in the experimental development of HER2 inhibitors.",
+        link: "10.1021/acsomega.5c10459",
+        image: "https://ibb.co/DHnhx9zm",
+        keyword: "HER2, Machine Learning, Deep Learning, Variational Autoencoder, Molecular Docking, Molecular Dynamics"
+    },
 ];
