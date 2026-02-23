@@ -20,16 +20,6 @@ export const publications = [
         keyword: "Machine Learning, QSAR, Drug Design, Molecular Docking, HDAC2 inhibitors"
     },
     {
-        title: "Characterizing Potential BACE1 Inhibitors from ChEMBL Database using Knowledge-and Physics-Based Approaches",
-        authors: "Tung Dao Quang, Dung Do Thi Mai, Quynh Mai Thai, Phuong-Thao Tran, Son Tung Ngo and Trung Hai Nguyen",
-        venue: "ChemRxiv (preprint)",
-        year: 2025,
-        abstract: "The inhibition of β-site amyloid precursor protein cleaving enzyme 1 (BACE1) presents a promising therapeutic strategy for treating Alzheimer's disease (AD) by reducing amyloid-beta (Aβ) production. Despite the potential of BACE1 inhibitors, their clinical application has been hindered by challenges related to toxicity and efficacy. In this paper employed a computational approach which combines machine learning and atomistic simulations to accelerate the discovery of effective BACE1 inhibitors. Our ML models trained on a set of ligands with experimental binding affinity show high accuracy when tested on a hold-out test set. The best model was used to screen the CHEMBL33 chemical library to obtain a short list of top hit compounds which were urther analyzed using molecular docking and steered molecular dynamics (SMD) simulations. These simulations provided insights into the binding mechanisms and interaction dynamics with BACE1, highlighting vital residues and pharmacophores that could inform the design of novel AD therapeutics.",
-        link: "10.26434/chemrxiv-2025-xccmh",
-        image: "https://i.ibb.co/rK9PdNpG/Screenshot-2026-01-17-at-09-47-42.png",
-        keyword: "Machine Learning, BACE1 inhibitors, Alzheimer diseases, Molecular Docking, Steered Molecular Dynamics"
-    },
-    {
         title: "Unveiling potent xanthine oxidase inhibitors in two Balanophora spp. using machine learning-based virtual screening and molecular docking approach",
         authors: "Nguyen Ngoc An, Dao Quang Tung, Le Van Tue, Nguyen Thanh Son, Nguyen Thanh Tung, Huong-Giang Le, Thai Chinh Tam, Nguyen Thị Thuan, Daniel Baecker & Do Thi Mai Dung",
         venue: "Scientific Reports",
