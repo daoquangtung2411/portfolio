@@ -64,7 +64,7 @@ const AboutDesktop = () => {
                 </p>
 
                 <p style={{ lineHeight: 1.7, fontSize: '18px' }}>
-                Currently Reserach Assistant at{' '}
+                Currently Research Assistant at{' '}
                 <a
                     href="https://luttenslab.netlify.app/"
                     target="_blank"

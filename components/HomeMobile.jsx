@@ -79,11 +79,11 @@ const HomeMobile = ({ blogPosts, publications, researchInterest }) => {
                     }}
                 >
                     <p style={{ lineHeight: 1.6, fontSize: '14px', marginBottom: '6px' }}>
-                    Tung is in final year of Master program in Artificial Intelligence for Health at Stockholm University.
+                    Freshly graduated of Master program in Artificial Intelligence for Health at Stockholm University on June 2026
                     </p>
 
                     <p style={{ lineHeight: 1.6, fontSize: '14px', marginBottom: '8px' }}>
-                    Currently conducting Master Thesis at{' '}
+                    Currently Research Assistant at{' '}
                     <a
                         href="https://luttenslab.netlify.app/"
                         target="_blank"
@@ -91,7 +91,7 @@ const HomeMobile = ({ blogPosts, publications, researchInterest }) => {
                         style={{ textDecoration: 'none', fontWeight: 700 }}
                     >
                         Luttens Lab
-                    </a>, under supervision of Andreas Luttens (KI) and Ioanna Miliou (DSV)
+                    </a>, under supervision of Andreas Luttens (KI).
                     </p>
 
                     {/* SOCIAL LINKS */}

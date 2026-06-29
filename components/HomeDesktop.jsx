@@ -40,7 +40,7 @@ const HomeDesktop = ({ blogPosts, publications, researchInterest }) => {
                         On June 2026, I have graduated from the Master program in Artificial Intelligence for Health at Stockholm University. My interest lies in using AI for drug discovery and development.
                     </p>
                     <p style={{lineHeight: 1.7, fontSize: '18px', color: '#1c0333', marginBottom: '5px'}}>
-                        Currently I am Research assistant at{' '} <a href="https://luttenslab.netlify.app/" target="_blank" rel="noreferrer" style={{textDecoration: 'none', fontWeight: 700}}>Luttens Lab</a>{' '}, under supervision of Andreas Luttens (KI).
+                        Currently Research assistant at{' '} <a href="https://luttenslab.netlify.app/" target="_blank" rel="noreferrer" style={{textDecoration: 'none', fontWeight: 700}}>Luttens Lab</a>{' '}, under supervision of Andreas Luttens (KI).
                     </p>
                     <div
                         style={{
