@@ -34,13 +34,13 @@ const HomeDesktop = ({ blogPosts, publications, researchInterest }) => {
                 <div style={{flex: 1, minWidth: '280px', maxWidth: '950px'}}>
                     
                     <p style={{lineHeight: 1.7, fontSize: '18px', color: '#1c0333', marginBottom: '5px'}}>
-                        Tung received his pharmacist degree from Hanoi University of Pharmacy in 2015. After graduation, he worked as a clinical pharmacist for 8 years at National Hospital for Tropical Disease in Vietnam.
+                        I received his pharmacist degree from Hanoi University of Pharmacy in 2015. After graduation, I worked as a clinical pharmacist for 8 years at National Hospital for Tropical Disease in Vietnam.
                     </p>
                     <p style={{lineHeight: 1.7, fontSize: '18px', color: '#1c0333', marginBottom: '5px'}}>
-                        Tung is in final year of Master program in Artificial Intelligence for Health at Stockholm University. His interest lies in using AI for drug discovery and development.
+                        On June 2026, I have graduated from the Master program in Artificial Intelligence for Health at Stockholm University. My interest lies in using AI for drug discovery and development.
                     </p>
                     <p style={{lineHeight: 1.7, fontSize: '18px', color: '#1c0333', marginBottom: '5px'}}>
-                        Currently conducting Master Thesis at{' '} <a href="https://luttenslab.netlify.app/" target="_blank" rel="noreferrer" style={{textDecoration: 'none', fontWeight: 700}}>Luttens Lab</a>{' '}, under supervision of Andreas Luttens (KI) and Ioanna Miliou (DSV)
+                        Currently I am Research assistant at{' '} <a href="https://luttenslab.netlify.app/" target="_blank" rel="noreferrer" style={{textDecoration: 'none', fontWeight: 700}}>Luttens Lab</a>{' '}, under supervision of Andreas Luttens (KI).
                     </p>
                     <div
                         style={{

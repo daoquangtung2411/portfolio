@@ -46,8 +46,8 @@ const AboutDesktop = () => {
                 <p style={{ lineHeight: 1.7, fontSize: '18px', marginBottom: '10px' }}>
                 Pharmacist with 8 years of working experience in hospital settings and
                 2 years of research experience in data science and AI applications for
-                drug discovery. Currently pursuing a Master’s degree in Artificial
-                Intelligence for Health, expected to graduate in June 2026.
+                drug discovery. Freshly graduated from Master’s degree in Artificial
+                Intelligence for Health on June 2026.
                 </p>
 
                 <p style={{ lineHeight: 1.7, fontSize: '18px', marginBottom: '10px' }}>
@@ -58,13 +58,13 @@ const AboutDesktop = () => {
                 </p>
 
                 <p style={{ lineHeight: 1.7, fontSize: '18px', marginBottom: '10px' }}>
-                Tung is in the final year of the Master program in Artificial Intelligence
-                for Health at Stockholm University. His research interests lie in applying
+                I have graduated from the Master program in Artificial Intelligence
+                for Health at Stockholm University on June 2026. My research interests lie in applying
                 AI techniques to drug discovery and development.
                 </p>
 
                 <p style={{ lineHeight: 1.7, fontSize: '18px' }}>
-                Currently conducting a Master’s thesis at{' '}
+                Currently Reserach Assistant at{' '}
                 <a
                     href="https://luttenslab.netlify.app/"
                     target="_blank"
@@ -72,7 +72,7 @@ const AboutDesktop = () => {
                     style={{ fontWeight: 600, textDecoration: 'none' }}
                 >
                     Luttens Lab
-                </a>, under the supervision of Andreas Luttens (KI) and Ioanna Miliou (DSV).
+                </a>, under the supervision of Andreas Luttens (KI).
                 </p>
             </section>
 
@@ -85,9 +85,15 @@ const AboutDesktop = () => {
                 <div style={{ borderLeft: '2px solid #ddd', paddingLeft: '20px' }}>
                 {/* ITEM */}
                 <TimelineItem
+                    title="Research Assistant"
+                    place="Luttens Lab / SciLifeLab and Karolinska Institutet"
+                    time="June 2026 - present"
+                />
+                
+                <TimelineItem
                     title="Master Thesis Student"
                     place="Luttens Lab / SciLifeLab and Karolinska Institutet"
-                    time="Oct 2025 - present"
+                    time="Oct 2025 - June 2026"
                 />
 
                 <TimelineItem
